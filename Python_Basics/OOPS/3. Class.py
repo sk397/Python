@@ -24,7 +24,7 @@ print(d.add_one(5))
 # Deifing an Attribute when initilizing the object
 
 class Cat:
-    def mewo(self):
+    def meow(self):
         print("meow")
 
     # We are giving the attribute in the __init__ method and delfined an attribute called name 
